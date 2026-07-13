@@ -1,0 +1,7 @@
+library versiions
+
+ESPping v1.0.4
+EspSoftwareSerial v8.1.0
+ArduinoJson v7.0.4
+ESP32httpUpdate v2.1.145
+ESP32-ENC28J60 v1.0.1
